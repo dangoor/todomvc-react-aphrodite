@@ -1,4 +1,8 @@
-# React TodoMVC Example
+# React TodoMVC Example *now with Aphrodite!*
+
+This is the original React TodoMVC example, but with the [Aphrodite](https://github.com/khan/aphrodite) library also included on the page so that we can try it out for converting this project from CSS to using Aphrodite.
+
+You might find the [CSS to React](http://staxmanade.com/CssToReact/) tool to be handy for this.
 
 > React is a JavaScript library for creating user interfaces. Its core principles are declarative code, efficiency, and flexibility. Simply specify what your component looks like and React will keep it up-to-date when the underlying data changes.
 
